@@ -24,7 +24,7 @@ export default function Navbar() {
             <path d="M17.5 2.5l4 4L17 11l-4-4z" />
             <path d="M2 22h8" />
           </svg>
-          Heritage<span className="text-brassdark">&amp;Co.</span>
+          Hammerly
         </Link>
 
         <nav className="hidden md:flex items-center gap-8 text-sm font-semibold tracking-wide text-ink/80">

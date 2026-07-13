@@ -1,4 +1,4 @@
-# Heritage & Co. — Auction House Web Application
+# Hammerly — Auction House Web Application
 
 A full-stack MERN auction platform with real-time bidding. Built as a college major project.
 

@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-14 grid grid-cols-1 md:grid-cols-4 gap-10">
         <div>
           <div className="font-display text-2xl font-bold text-parchment mb-3">
-            Heritage<span className="text-brass">&amp;Co.</span>
+            Hammerly
           </div>
           <p className="text-sm leading-relaxed">
             A house of provenance since curiosity began. Rare items, honest bidding, real winners.
@@ -37,7 +37,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 py-5 text-center text-xs text-parchment/40">
-        © {new Date().getFullYear()} Heritage &amp; Co. Auction House. College project — not a real auction house.
+        © {new Date().getFullYear()} Hammerly -Auction House. <br />HArshit Verma
       </div>
     </footer>
   );
