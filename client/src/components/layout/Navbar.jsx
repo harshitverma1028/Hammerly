@@ -16,7 +16,7 @@ export default function Navbar() {
   const dashboardPath = user?.role === "admin" ? "/admin/dashboard" : "/dashboard";
 
   return (
-    <header className="sticky top-0 z-40 bg-parchment/90 backdrop-blur border-b border-ink/10">
+    <header className="sticky top-0 z-40 bg bg-transparent">
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between h-20">
         <Link to="/" className="flex items-center gap-2 font-display text-2xl font-bold text-ink">
           <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#B08D57" strokeWidth="2">
@@ -72,7 +72,7 @@ export default function Navbar() {
             </>
           )}
 
-          
+
         </div>
       </div>
     </header>
