@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Hero() {
   return (
     <section className="relative overflow-hidden border-b border-ink/10">
-      <div className="max-w-7xl mx-auto px-6 py-24 md:py-32 grid md:grid-cols-2 gap-12 items-center">
+      <div className="max-w-7xl mx-auto px-6 py-24 md:py-12 grid md:grid-cols-2 gap-12 items-center">
         <div>
           <span className="eyebrow">Est. by curious minds</span>
           <h1 className="font-display text-5xl md:text-6xl font-extrabold leading-[1.05] mt-4 mb-6 text-ink">
