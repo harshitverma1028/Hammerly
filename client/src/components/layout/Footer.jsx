@@ -37,7 +37,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 py-5 text-center text-xs text-parchment/40">
-        © {new Date().getFullYear()} Hammerly -Auction House. <br />Harshit Verma
+        © {new Date().getFullYear()} Hammerly -Auction House. <br />  by Harshit Verma
       </div>
     </footer>
   );

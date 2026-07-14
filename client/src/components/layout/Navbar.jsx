@@ -71,6 +71,8 @@ export default function Navbar() {
               <Link to="/register" className="btn-primary !px-4 !py-2 text-sm">Register</Link>
             </>
           )}
+
+          
         </div>
       </div>
     </header>
