@@ -132,7 +132,7 @@ export default function LiveAuction() {
 
         {/* Bidding Panel */}
         <div>
-          <div className="card p-7 sticky top-24">
+          <div className="card p-7  top-24">
             <div className="flex items-center justify-between mb-6">
               <StatusBadge status={auction.status} />
               {auction.status === "live" && (
